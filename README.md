@@ -1,1 +1,1 @@
-#static
+#love
